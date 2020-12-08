@@ -18,4 +18,3 @@ Search for countries & cities.
 
 Statistics: Including the number of confirmed, recovered, and deaths.
 
-Initial data is shown is of the user country which is identified through the ip address of the user.
